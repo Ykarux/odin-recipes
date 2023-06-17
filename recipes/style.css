@@ -1,0 +1,33 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: brown;
+    background-color: lightpink;
+    font-family: "Arial", sans-serif;
+}
+
+img {
+    height: auto;
+    width: 150px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 20px;
+    color: lightgreen;
+    background-color: yellow;
+}
+
+p {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+ul li {
+    color: brown;
+}
+
+ol li {
+    color: green;
+}

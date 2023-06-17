@@ -1,0 +1,16 @@
+h1 {
+    background-color: white;
+    font-size: 34px;
+    color: red;
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+}
+
+ul li {
+    text-decoration: none;
+    background-color: blue;
+    color: green;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
